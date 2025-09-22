@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Working on projects in **Machine Learning, Data Analytics & Automation**  
+- 🔭 Working on projects in **Machine Learning,Deep Learning, Data Analytics & Automation**  
 - 🌱 Exploring **Computer Vision & Data Visualization**  
 - 💬 Ask me about **Python, SQL, ML Models, and Data Science**  
 - 🤝 Open to **internships, collaborations, and open-source contributions**  
